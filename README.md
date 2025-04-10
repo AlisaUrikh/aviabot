@@ -18,8 +18,8 @@
 
 ### 1️. Клонирование репозитория
 
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AlisaUrikh/aviabot.git
+cd aviabot
 
 ### 2. Создание виртуального окружения
 python -m venv venv
@@ -44,5 +44,6 @@ python bot.py
 - Популярные направления — введите /popular_directions и укажите город.
 - Поиск билетов — выполните /find_tickets и следуйте инструкциям.
 
-Автор: Ермакова Полина Андреевна
-Номер ИСУ: 336556
+Автор: Урих Алиса Евгеньевна
+Контакты: +79033760903
+urikh.alisa03@mail.ru
