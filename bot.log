@@ -201,3 +201,158 @@ KeyError: 271336046
 2025-03-17 17:14:31 - [INFO] - Update id=317271098 is handled. Duration 8172 ms by bot id=7258438370
 2025-03-17 17:20:28 - [INFO] - Polling stopped
 2025-03-17 17:20:28 - [INFO] - Polling stopped for bot @aeroflights_bot id=7258438370 - 'flight_bot'
+2025-03-17 18:30:13 - [INFO] - Бот успешно запущен
+2025-03-17 18:30:13 - [INFO] - Start polling
+2025-03-17 18:30:14 - [INFO] - Run polling for bot @aeroflights_bot id=7258438370 - 'flight_bot'
+2025-03-17 18:30:15 - [INFO] - Update id=317271099 is handled. Duration 531 ms by bot id=7258438370
+2025-03-17 18:30:17 - [INFO] - Update id=317271100 is handled. Duration 187 ms by bot id=7258438370
+2025-03-17 18:30:25 - [INFO] - Update id=317271101 is handled. Duration 3467 ms by bot id=7258438370
+2025-03-17 18:30:31 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:30:31 - [INFO] - Update id=317271102 is handled. Duration 1344 ms by bot id=7258438370
+2025-03-17 18:30:34 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:30:34 - [INFO] - Update id=317271103 is handled. Duration 609 ms by bot id=7258438370
+2025-03-17 18:30:42 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:30:42 - [INFO] - Сообщение об авиабилетах отправлено
+2025-03-17 18:30:42 - [INFO] - Update id=317271104 is handled. Duration 1515 ms by bot id=7258438370
+2025-03-17 18:32:02 - [INFO] - Update id=317271105 is handled. Duration 500 ms by bot id=7258438370
+2025-03-17 18:32:13 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:15 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:15 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:16 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:17 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:17 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:18 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:18 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:19 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:19 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:20 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:20 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:21 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:32:21 - [INFO] - Сообщение о самых популярных направлениях отправлено
+2025-03-17 18:32:21 - [INFO] - Update id=317271106 is handled. Duration 8375 ms by bot id=7258438370
+2025-03-17 18:38:17 - [INFO] - Update id=317271107 is handled. Duration 3875 ms by bot id=7258438370
+2025-03-17 18:38:30 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:38:30 - [INFO] - Update id=317271108 is handled. Duration 1452 ms by bot id=7258438370
+2025-03-17 18:38:35 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:38:35 - [INFO] - Update id=317271109 is handled. Duration 702 ms by bot id=7258438370
+2025-03-17 18:38:48 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 18:38:48 - [INFO] - Сообщение об авиабилетах отправлено
+2025-03-17 18:38:48 - [INFO] - Update id=317271110 is handled. Duration 1483 ms by bot id=7258438370
+2025-03-17 18:41:04 - [ERROR] - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-03-17 18:41:05 - [WARNING] - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7258438370)
+2025-03-17 18:41:19 - [INFO] - Connection established (tryings = 1, bot id = 7258438370)
+2025-03-17 21:07:35 - [INFO] - Polling stopped
+2025-03-17 21:07:35 - [INFO] - Polling stopped for bot @aeroflights_bot id=7258438370 - 'flight_bot'
+2025-03-17 21:07:53 - [INFO] - Бот успешно запущен
+2025-03-17 21:07:53 - [INFO] - Start polling
+2025-03-17 21:07:54 - [INFO] - Run polling for bot @aeroflights_bot id=7258438370 - 'flight_bot'
+2025-03-17 21:08:12 - [INFO] - Update id=317271111 is handled. Duration 342 ms by bot id=7258438370
+2025-03-17 21:08:17 - [INFO] - Update id=317271112 is handled. Duration 3202 ms by bot id=7258438370
+2025-03-17 21:08:21 - [WARNING] - IATA-код не найден для "fjjfjffjjfjf"
+2025-03-17 21:08:21 - [WARNING] - Город "fjjfjffjjfjf" не найден
+2025-03-17 21:08:21 - [INFO] - Update id=317271113 is handled. Duration 1000 ms by bot id=7258438370
+2025-03-17 21:08:34 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:08:34 - [INFO] - Update id=317271114 is handled. Duration 937 ms by bot id=7258438370
+2025-03-17 21:08:37 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:08:37 - [INFO] - Update id=317271115 is handled. Duration 734 ms by bot id=7258438370
+2025-03-17 21:08:48 - [ERROR] - Код ответа: 400. Ошибка API: {"error":"bad request: origin_city_iata and destination_city_iata are equal: invalid params","data":null,"status":400,"success":false}
+2025-03-17 21:08:48 - [INFO] - Update id=317271116 is not handled. Duration 562 ms by bot id=7258438370
+2025-03-17 21:08:48 - [ERROR] - Cause exception while process update id=317271116 by bot id=7258438370
+ValidationError: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.3/v/string_type
+Traceback (most recent call last):
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 308, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 157, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 120, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 275, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\router.py", line 116, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\router.py", line 136, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 120, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 42, in call
+    return await wrapped()
+  File "C:\Dev\aviabot\modules\handlers.py", line 129, in get_info
+    await message.answer(tickets_info)
+  File "C:\Dev\aviabot\venv\lib\site-packages\aiogram\types\message.py", line 1725, in answer
+    return SendMessage(
+  File "C:\Dev\aviabot\venv\lib\site-packages\pydantic\main.py", line 165, in __init__
+    __pydantic_self__.__pydantic_validator__.validate_python(data, self_instance=__pydantic_self__)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.3/v/string_type
+2025-03-17 21:10:22 - [INFO] - Update id=317271117 is handled. Duration 3546 ms by bot id=7258438370
+2025-03-17 21:10:24 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:24 - [INFO] - Update id=317271118 is handled. Duration 829 ms by bot id=7258438370
+2025-03-17 21:10:27 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:27 - [INFO] - Update id=317271119 is handled. Duration 859 ms by bot id=7258438370
+2025-03-17 21:10:34 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:34 - [INFO] - Сообщение об авиабилетах отправлено
+2025-03-17 21:10:35 - [INFO] - Update id=317271120 is handled. Duration 1047 ms by bot id=7258438370
+2025-03-17 21:10:44 - [INFO] - Update id=317271121 is handled. Duration 203 ms by bot id=7258438370
+2025-03-17 21:10:55 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:55 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:56 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:56 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:57 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:57 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:58 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:58 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:58 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:59 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:59 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:10:59 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:11:00 - [INFO] - Код ответа: 200. Данные получены
+2025-03-17 21:11:00 - [INFO] - Сообщение о самых популярных направлениях отправлено
+2025-03-17 21:11:00 - [INFO] - Update id=317271122 is handled. Duration 5484 ms by bot id=7258438370
+2025-03-17 21:11:13 - [INFO] - Polling stopped
+2025-03-17 21:11:13 - [INFO] - Polling stopped for bot @aeroflights_bot id=7258438370 - 'flight_bot'
+2025-03-28 12:43:24 - [INFO] - Бот успешно запущен
+2025-03-28 12:43:24 - [INFO] - Start polling
+2025-03-28 12:43:25 - [INFO] - Run polling for bot @aeroflights_bot id=7258438370 - 'flight_bot'
+2025-03-28 12:44:09 - [INFO] - Update id=317271123 is handled. Duration 313 ms by bot id=7258438370
+2025-03-28 12:44:17 - [INFO] - Update id=317271124 is handled. Duration 203 ms by bot id=7258438370
+2025-03-28 12:44:28 - [INFO] - Update id=317271125 is handled. Duration 3187 ms by bot id=7258438370
+2025-03-28 12:44:46 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:44:47 - [INFO] - Update id=317271126 is handled. Duration 656 ms by bot id=7258438370
+2025-03-28 12:44:53 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:44:53 - [INFO] - Update id=317271127 is handled. Duration 500 ms by bot id=7258438370
+2025-03-28 12:44:59 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:44:59 - [INFO] - Сообщение об авиабилетах отправлено
+2025-03-28 12:44:59 - [INFO] - Update id=317271128 is handled. Duration 844 ms by bot id=7258438370
+2025-03-28 12:45:31 - [INFO] - Update id=317271129 is handled. Duration 483 ms by bot id=7258438370
+2025-03-28 12:45:39 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:40 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:40 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:40 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:41 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:41 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:41 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:42 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:42 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:42 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:43 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:43 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:44 - [INFO] - Код ответа: 200. Данные получены
+2025-03-28 12:45:44 - [INFO] - Сообщение о самых популярных направлениях отправлено
+2025-03-28 12:45:44 - [INFO] - Update id=317271130 is handled. Duration 5000 ms by bot id=7258438370
+2025-03-28 12:46:28 - [INFO] - Polling stopped
+2025-03-28 12:46:28 - [INFO] - Polling stopped for bot @aeroflights_bot id=7258438370 - 'flight_bot'
